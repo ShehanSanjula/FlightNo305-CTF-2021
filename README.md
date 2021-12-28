@@ -49,6 +49,7 @@ Recommend web browsers for greater user experience:
   
 ### Safety Requirements
 
+
 +	  Users must read and agree with our privacy policy before they communicate with Flight No 305 CTF platform.
 + 	Flight No 305 accept no responsibility for loss or damage to user property during their data transmission.
 + 	If we found any user is violating our security policies, we'll ban the user from using our services thereafter.
