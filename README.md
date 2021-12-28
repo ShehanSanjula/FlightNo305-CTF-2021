@@ -44,5 +44,5 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 #### This flight No. 305 system is running under enabled DDoS protection. And it includes a continuous log monitoring system to track unethical activities. SSL/TLS encryption protocol has been added. Every step that has been taken to make this system is to give fair accessibility to the user and make an excellent environment to experience real-world scenarios.
 
 <p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
-<h4 align="center">Activity Workflow</h4> 
+<h4 align="center">Activity Workflow of Flight No. 305</h4> 
 
