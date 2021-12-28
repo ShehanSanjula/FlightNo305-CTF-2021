@@ -41,18 +41,18 @@ Recommend web browsers for greater user experience:
 *	Microsoft Edge
 *	Apple Safari
 
-+  The player can run our CTF platform smoothly using the latest version of the above-mentioned web browsers.
++   The player can run our CTF platform smoothly using the latest version of the above-mentioned web browsers.
 + 	We always recommend a high bandwidth internet connection for internet communication with our servers.
 + 	The user must register with our platform in order to unlock all the features.
 + 	Data and information stores in the real-time database system of our platform.
 + 	We have configured a backup procedure for our CTF platform. Therefore, the user doesn't need to worry about their information.
   
 ### Safety Requirements
- 	Users must read and agree with our privacy policy before they communicate with Flight No 305 CTF platform.
- 	Flight No 305 accept no responsibility for loss or damage to user property during their data transmission.
- 	If we found any user is violating our security policies, we'll ban the user from using our services thereafter.
- 	All the challenges adhere is only for gaining educational knowledge. 
- 	Flight No 305 does not encourage any user to hack real-world systems.
++	  Users must read and agree with our privacy policy before they communicate with Flight No 305 CTF platform.
++ 	Flight No 305 accept no responsibility for loss or damage to user property during their data transmission.
++ 	If we found any user is violating our security policies, we'll ban the user from using our services thereafter.
++ 	All the challenges adhere is only for gaining educational knowledge. 
++ 	Flight No 305 does not encourage any user to hack real-world systems.
   
 ### Security Requirements
  	Our entire CTF platform is running under enabled DDoS protection.
