@@ -61,6 +61,16 @@ Recommend web browsers for greater user experience:
 
 ![ddos-protection](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/ddos-protection.png)
 
+## 2.2	Design
+
 <p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
 <h4 align="center">Activity Workflow of Flight No. 305</h4> 
 
+#### As above figure demonstrates, level 1 to level 6 is the introductory level. It focuses on general activities. When it comes to level 7 to level 12, those are mainly designed for security individuals. To complete those tasks, it is needed to install Linux based OS (Kali-Linux is recommended) and some other mentioned tools on the challenge description.
+
+#### The infrastructure of Flight No. 305 runs under 02 primary cloud services: Azure (Dashboard) & AWS (NWA System). Contestant requests are only accepted after the DDoS verification process of Cloudflare. Flight No. 305 uses Netlify CDN (Content Delivery Network) server for quick delivery of challenges on some occasions.
+
+#### All the other developments are implemented inside the desired cloud services as follows.
+
+<p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/The%20Infrastructure%20of%20Flight%20No.%20305%20-%20The%20CTF.png alt="The Infrastructure of Flight No. 305 - The CTF"/> </p>
+<h4 align="center">The Infrastructure of Flight No. 305 - The CTF</h4> 
