@@ -31,17 +31,29 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 # 2.	Methodology
 
 ## 2.1	Requirements and Analysis
+#### Requirements are divided into three categories: performance requirement, safety requirement and security requirements.
+### Performance Requirements
+ 	Recommend web browsers for greater user experience:
+*	Google Chrome
+*	Mozilla Firefox
+*	Microsoft Edge
+*	Apple Safari
+* 	  The player can run our CTF platform smoothly using the latest version of the above-mentioned web browsers.
+ 	We always recommend a high bandwidth internet connection for internet communication with our servers.
+ 	The user must register with our platform in order to unlock all the features.
+ 	Data and information stores in the real-time database system of our platform.
+ 	We have configured a backup procedure for our CTF platform. Therefore, the user doesn't need to worry about their information.
+  
+###	Safety Requirements
+ 	Users must read and agree with our privacy policy before they communicate with Flight No 305 CTF platform.
+ 	Flight No 305 accept no responsibility for loss or damage to user property during their data transmission.
+ 	If we found any user is violating our security policies, we'll ban the user from using our services thereafter.
+ 	All the challenges adhere is only for gaining educational knowledge. 
+ 	Flight No 305 does not encourage any user to hack real-world systems.
+  
+###	Security Requirements
+ 	Our entire CTF platform is running under enabled DDoS protection.
 
-### Requirements are divided into three categories: performance requirement, safety requirement and security requirements.
-
-### Performance requirements:
-#### Players can run this CTF platform smoothly using the latest version of any web browser. A high bandwidth internet connection is required for communication with the servers as an initial requirement player has to register in the platform to unlock all the features included in the forum. Only Essential user’s data are stored on the server.
-
-### Safety requirements:
-#### First and foremost, the users must read and agree to privacy policies before registering to the platform. Flight No. 305 platform accept no responsibility for loss or damage to user property during the data transmission. If any user has violated the security policies, system admins will ban the user from using the services afterwards. All the challenges adhere is only for gaining academic knowledge. This will not encourage any user to hack real-world systems.
-
-### Security requirements:
-#### This flight No. 305 system is running under enabled DDoS protection. And it includes a continuous log monitoring system to track unethical activities. SSL/TLS encryption protocol has been added. Every step that has been taken to make this system is to give fair accessibility to the user and make an excellent environment to experience real-world scenarios.
 
 <p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
 <h4 align="center">Activity Workflow of Flight No. 305</h4> 
