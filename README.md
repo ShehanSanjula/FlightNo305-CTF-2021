@@ -18,15 +18,15 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 
 ## 1.1	Problem Statement
 
-### This project is based on a real scenario which is D.B. Cooper Flight High jack. For the time being, nowadays, technology has been playing a massive role in the world. As well as technology has been involved in improving transportation. Flight high jacking has been taking place for a while, and cyber-criminal activities also have grown beyond the expected level. This project elaborates on how to improve the airline ticketing system’s security. The primary purpose is to educate and prepare the airline security team for a system breach and to give some real-world experience.
+#### This project is based on a real scenario which is D.B. Cooper Flight High jack. For the time being, nowadays, technology has been playing a massive role in the world. As well as technology has been involved in improving transportation. Flight high jacking has been taking place for a while, and cyber-criminal activities also have grown beyond the expected level. This project elaborates on how to improve the airline ticketing system’s security. The primary purpose is to educate and prepare the airline security team for a system breach and to give some real-world experience.
 
-# 1.2	Product Scope
+## 1.2	Product Scope
 
-### Flight No. 305 project mainly focuses on the airline security team. It has several levels: 1-12 as from basic levels to complex levels. It has two web systems for the game’s dashboard, and one is the airline booking system created for the natural world booking system. The primary purpose is to educate and give experience about cyber security and its activities. This project might be suitable for individuals who like to do cyber security as their profession. And mainly from this project, we primarily tried to give an experience and prepare the security team of particular airlines booking systems breaches. The goal is to educate all the airline security individuals and relevant security teams about how breaches can happen and how attackers might try to breach a system. By playing this system, anyone can enjoy and get knowledge about cyber security and real-world experience.
+#### Flight No. 305 project mainly focuses on the airline security team. It has several levels: 1-12 as from basic levels to complex levels. It has two web systems for the game’s dashboard, and one is the airline booking system created for the natural world booking system. The primary purpose is to educate and give experience about cyber security and its activities. This project might be suitable for individuals who like to do cyber security as their profession. And mainly from this project, we primarily tried to give an experience and prepare the security team of particular airlines booking systems breaches. The goal is to educate all the airline security individuals and relevant security teams about how breaches can happen and how attackers might try to breach a system. By playing this system, anyone can enjoy and get knowledge about cyber security and real-world experience.
 
 ## 1.3	Project Report Structure
 
-### Here is a brief introduction to the project. Reading the rest of the document can get to know how this project grew from the bottom and the findings, pros, and cons. Under methodology, it has described the steps and systems has used to create this project and designs. We have discussed future works and lessons learned from this project.
+#### Here is a brief introduction to the project. Reading the rest of the document can get to know how this project grew from the bottom and the findings, pros, and cons. Under methodology, it has described the steps and systems has used to create this project and designs. We have discussed future works and lessons learned from this project.
 
 # 2.	Methodology
 
