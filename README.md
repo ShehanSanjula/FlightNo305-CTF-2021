@@ -57,7 +57,9 @@ Recommend web browsers for greater user experience:
   
 ### Security Requirements
 
-Our entire CTF platform is running under enabled DDoS protection.
++   Our entire CTF platform is running under enabled DDoS protection.
+
+![ddos-protection](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/ddos-protection.png)
 
 <p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
 <h4 align="center">Activity Workflow of Flight No. 305</h4> 
