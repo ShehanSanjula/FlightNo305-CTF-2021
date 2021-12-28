@@ -36,10 +36,10 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 ### Performance Requirements
 Recommend web browsers for greater user experience:
 
-*	Google Chrome
-*	Mozilla Firefox
-*	Microsoft Edge
-*	Apple Safari
+>	Google Chrome
+>	Mozilla Firefox
+>	Microsoft Edge
+>	Apple Safari
 
 +   The player can run our CTF platform smoothly using the latest version of the above-mentioned web browsers.
 + 	We always recommend a high bandwidth internet connection for internet communication with our servers.
@@ -48,7 +48,6 @@ Recommend web browsers for greater user experience:
 + 	We have configured a backup procedure for our CTF platform. Therefore, the user doesn't need to worry about their information.
   
 ### Safety Requirements
-
 
 +	  Users must read and agree with our privacy policy before they communicate with Flight No 305 CTF platform.
 + 	Flight No 305 accept no responsibility for loss or damage to user property during their data transmission.
