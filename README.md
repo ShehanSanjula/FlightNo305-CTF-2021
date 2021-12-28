@@ -68,6 +68,8 @@ Recommend web browsers for greater user experience:
 
 #### As above figure demonstrates, level 1 to level 6 is the introductory level. It focuses on general activities. When it comes to level 7 to level 12, those are mainly designed for security individuals. To complete those tasks, it is needed to install Linux based OS (Kali-Linux is recommended) and some other mentioned tools on the challenge description.
 
+### The Infrastructure 
+
 #### The infrastructure of Flight No. 305 runs under 02 primary cloud services: Azure (Dashboard) & AWS (NWA System). Contestant requests are only accepted after the DDoS verification process of Cloudflare. Flight No. 305 uses Netlify CDN (Content Delivery Network) server for quick delivery of challenges on some occasions.
 
 #### All the other developments are implemented inside the desired cloud services as follows.
