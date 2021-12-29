@@ -105,7 +105,7 @@ Recommend web browsers for greater user experience:
                     src="https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Shehan%20Sanjula%20%40%20office.jpg" width="80px;"
                     alt="Shehan Sanjula" /><br /><sub><b>Shehan Sanjula</b></sub></a>
         </td>
-        <td align="center"><a href="https://github.com/Viraj97"><img
+        <td align="center"><a href="#"><img
                     src="https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Tharindu.jpg" width="80px;"
                     alt="Tharindu Weerasooriya" /><br /><sub><b>Tharindu Weerasooriya</b></sub></a><br />
         </td>
