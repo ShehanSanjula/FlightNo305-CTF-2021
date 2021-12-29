@@ -113,4 +113,4 @@ Recommend web browsers for greater user experience:
 
 ### License
 
-![MIT](https://img.shields.io/github/License/ShehanSanjula/FlightNo305-CTF-2021?color=black)
+![MIT](https://img.shields.io/github/license/ShehanSanjula/FlightNo305-CTF-2021?color=black)
