@@ -26,13 +26,13 @@ This project was generated for [Flight No. 305 - The CTF](https://flightno305.sh
 ### URL: https://tryhackme.com/jr/flightno305 ![](https://img.shields.io/badge/Status-Online-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
 
 ## NWA - Northwest Airline System
-### URL: https://flightno305.shehansanjula.me/ ![](https://img.shields.io/badge/Status-Offline-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
+### URL: https://flightno305.shehansanjula.me ![](https://img.shields.io/badge/Status-Offline-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
 
 ## Dashboard
-### URL: https://dash-flightno305.shehansanjula.me/ ![](https://img.shields.io/badge/Status-Offline-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
+### URL: https://dash-flightno305.shehansanjula.me ![](https://img.shields.io/badge/Status-Offline-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
 
 ## Level 1 Intro: General
-### URL: https://flightno305-level1.shehansanjula.me/ ![](https://img.shields.io/badge/Status-Online-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
+### URL: https://flightno305-level1.shehansanjula.me ![](https://img.shields.io/badge/Status-Online-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
 ---
 # 1.	Introduction
 
