@@ -1,5 +1,15 @@
 # Flight No. 305 - The CTF
 
+## 🔧 Technologies & Tools
+
+![Azure](https://img.shields.io/badge/Cloud-%20TypeScript-light-blue)
+![AWS](https://img.shields.io/badge/Language-%20TypeScript-orange)
+![CTFd](https://img.shields.io/badge/Language-TSQL-red)
+![Docker](https://img.shields.io/badge/Language-TSQL-blue)
+![HTML](https://img.shields.io/badge/Language-HTML-brightgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
+![CSS](https://img.shields.io/badge/Language-CSS-blue)
+
 ![FlightNo305](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Flight%20No%20305.png)
 
 Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy style CTF challenge based on the story of D.B. Cooper Hijacking. This CTF will take all the participants on a journey of D.B. Cooper Hijacking that real-world attackers may face when compromising and taking hold of target systems. It may also give the competitors an understanding to enable critical thinking and apply necessary attacking techniques in a real case scenario.
