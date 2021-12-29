@@ -1,4 +1,7 @@
 # Flight No. 305 - The CTF
+
+![FlightNo305](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Flight%20No%20305.png)
+
 Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy style CTF challenge based on the story of D.B. Cooper Hijacking. This CTF will take all the participants on a journey of D.B. Cooper Hijacking that real-world attackers may face when compromising and taking hold of target systems. It may also give the competitors an understanding to enable critical thinking and apply necessary attacking techniques in a real case scenario.
 
 
@@ -59,11 +62,11 @@ Recommend web browsers for greater user experience:
 
 +   Our entire CTF platform is running under enabled DDoS protection.
 
-![ddos-protection](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/ddos-protection.png)
+![ddos-protection](https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/ddos-protection.png)
 
 ## 2.2	Design
 
-<p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
+<p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Activity%20Workflow.png alt="Activity Workflow of Flight No. 305"/> </p>
 <h4 align="center">Activity Workflow of Flight No. 305</h4> 
 
 #### As above figure demonstrates, level 1 to level 6 is the introductory level. It focuses on general activities. When it comes to level 7 to level 12, those are mainly designed for security individuals. To complete those tasks, it is needed to install Linux based OS (Kali-Linux is recommended) and some other mentioned tools on the challenge description.
@@ -74,7 +77,7 @@ Recommend web browsers for greater user experience:
 
 #### All the other developments are implemented inside the desired cloud services as follows.
 
-<p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/The%20Infrastructure%20of%20Flight%20No.%20305%20-%20The%20CTF.png alt="The Infrastructure of Flight No. 305 - The CTF"/> </p>
+<p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/The%20Infrastructure%20of%20Flight%20No.%20305%20-%20The%20CTF.png alt="The Infrastructure of Flight No. 305 - The CTF"/> </p>
 <h4 align="center">The Infrastructure of Flight No. 305 - The CTF</h4> 
 
 ### License
