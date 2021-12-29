@@ -106,11 +106,11 @@ Recommend web browsers for greater user experience:
                     alt="Shehan Sanjula" /><br /><sub><b>Shehan Sanjula</b></sub></a>
         </td>
         <td align="center"><a href="https://github.com/Viraj97"><img
-                    src="https://avatars1.githubusercontent.com/u/36671096?s=400&u=853a35679e378ed2f92a4f40f3f1fc2df0849977&v=4" width="80px;"
+                    src="https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Tharindu.jpg" width="80px;"
                     alt="Tharindu Weerasooriya" /><br /><sub><b>Tharindu Weerasooriya</b></sub></a><br />
         </td>
 </table>
 
 ### License
 
-![MIT](https://img.shields.io/github/license/ShehanSanjula/FlightNo305-CTF-2021?color=black)
+![MIT](https://img.shields.io/github/License/ShehanSanjula/FlightNo305-CTF-2021?color=black)
