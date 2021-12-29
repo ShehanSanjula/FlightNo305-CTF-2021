@@ -3,7 +3,7 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 
 
 ## TryHackMe Room:
-### https://tryhackme.com/jr/flightno305
+### URL: https://tryhackme.com/jr/flightno305
 
 ## NWA - Northwest Airline System
 ### URL: https://flightno305.shehansanjula.me/
