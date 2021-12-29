@@ -11,8 +11,8 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 ## Dashboard
 ### URL: https://dash-flightno305.shehansanjula.me/
 
-## Level 1: General
-### Web: https://flightno305-level1.shehansanjula.me/
+## Level 1 Intro: General
+### URL: https://flightno305-level1.shehansanjula.me/
 ---
 # 1.	Introduction
 
