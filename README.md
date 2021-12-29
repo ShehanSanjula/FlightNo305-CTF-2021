@@ -102,7 +102,7 @@ Recommend web browsers for greater user experience:
 <table>
     <tr>
         <td align="center"><a href="https://github.com/ShehanSanjula"><img
-                    src="https://avatars.githubusercontent.com/u/39646768?v=4" width="80px;"
+                    src="https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/Images/Shehan%20Sanjula%20%40%20office.jpg" width="80px;"
                     alt="Shehan Sanjula" /><br /><sub><b>Shehan Sanjula</b></sub></a>
         </td>
         <td align="center"><a href="https://github.com/Viraj97"><img
