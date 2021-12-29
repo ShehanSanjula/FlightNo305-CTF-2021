@@ -76,3 +76,7 @@ Recommend web browsers for greater user experience:
 
 <p align="center"> <img src=https://raw.githubusercontent.com/ShehanSanjula/FlightNo305-CTF-2021/main/The%20Infrastructure%20of%20Flight%20No.%20305%20-%20The%20CTF.png alt="The Infrastructure of Flight No. 305 - The CTF"/> </p>
 <h4 align="center">The Infrastructure of Flight No. 305 - The CTF</h4> 
+
+### License
+
+![MIT](https://img.shields.io/github/license/ShehanSanjula/CTFProject?color=black)
