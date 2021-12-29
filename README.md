@@ -2,10 +2,12 @@
 
 ## 🔧 Technologies & Tools
 
-![Azure](https://img.shields.io/badge/Cloud-%20Azure-light-blue)
+![Azure](https://img.shields.io/badge/Cloud-%20Azure-blue)
 ![AWS](https://img.shields.io/badge/Language-%20AWS-orange)
 ![CTFd](https://img.shields.io/badge/Platform-CTFd-red)
 ![Docker](https://img.shields.io/badge/Virtualization-Docker-blue)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-brown)
+![MySQL](https://img.shields.io/badge/Databas-MySQL-yellow)
 ![HTML](https://img.shields.io/badge/Language-HTML-brightgreen)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
 ![CSS](https://img.shields.io/badge/Language-CSS-blue)
