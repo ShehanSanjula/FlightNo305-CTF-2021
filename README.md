@@ -6,7 +6,7 @@ Flight No. 305 CTF (capture-the-flag) is a multi-level storyline themed jeopardy
 
 ## 🔧 Technologies & Tools
 
-![Azure](https://img.shields.io/badge/Cloud-%20Azure-brightblue)
+![Azure](https://img.shields.io/badge/Cloud-%20Azure-blue)
 ![AWS](https://img.shields.io/badge/Cloud-%20AWS-orange)
 ![CTFd](https://img.shields.io/badge/Platform-CTFd-red)
 ![Docker](https://img.shields.io/badge/Virtualization-Docker-blue)
